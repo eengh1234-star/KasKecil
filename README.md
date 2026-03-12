@@ -1,0 +1,2 @@
+# KasKecil
+Aplikasi sederhana
